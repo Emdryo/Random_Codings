@@ -1,0 +1,1 @@
+Konrad    ELO = 1000    winrate = N/A
